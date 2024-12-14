@@ -1,4 +1,1 @@
-"# shop" 
-"# shop" 
-"# shop" 
-"# bookshop" 
+Basic Book Shop format using Daisy UI and Talwind CSS. Only Frontend
